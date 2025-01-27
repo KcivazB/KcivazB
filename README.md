@@ -34,12 +34,11 @@
 - 🌐 **Portfolio** - My personal portfolio website
 - ♟️ **Rookie Chess Engine** - Another chess engine implementation
 
-<div align="center" style="display: flex; gap: 20px;">
+<div align="center" style="display: flex">
   <div style="display: flex; flex-direction: column; gap: 10px;">
     <img height="175" src="https://github-readme-stats.vercel.app/api?username=KcivazB&show_icons=true&theme=dark" alt="GitHub Stats" />
     <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=KcivazB&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   </div>
-  <img height="360" src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
