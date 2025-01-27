@@ -36,8 +36,8 @@
 
 <div align="center" style="display: flex">
   <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=KcivazB&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=KcivazB&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+    <img height="175" width="400" src="https://github-readme-stats.vercel.app/api?username=KcivazB&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img height="175" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=KcivazB&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   </div>
 </div>
 
