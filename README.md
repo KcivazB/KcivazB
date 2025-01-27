@@ -28,11 +28,11 @@
 
 ## Current Projects 🔥
 
-- 🎮 **Chess Engine** - A powerful chess engine implementation
-- 🎵 **Concerto** - Music-related project
-- 🤝 **PalBro** - Collaboration tool
+- 🎵 **Concerto** - Project Management and collaborative todo-lists
+- 🤝 **PalBro** - A Palworld companion application
 - 🌐 **Portfolio** - My personal portfolio website
-- ♟️ **Rookie Chess Engine** - Another chess engine implementation
+- ♟️ **Rookie Chess Engine** - A python chess engine simple implementation
+- 🎮 **TsarMate Chess Engine** - Another chess engine implementation
 
 <div align="center" style="display: flex">
   <div style="display: flex; flex-direction: column; gap: 10px;">
