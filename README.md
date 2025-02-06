@@ -31,8 +31,8 @@
 - 🎵 **Concerto** - Project Management and collaborative todo-lists
 - 🤝 **PalBro** - A Palworld companion application
 - 🌐 **Portfolio** - My personal portfolio website
-- ♟️ **Rookie Chess Engine** - A python chess engine simple implementation
-- 🎮 **TsarMate Chess Engine** - Another chess engine implementation
+- ♟️ **Rookie Chess Engine** - A python chess engine simple implementation 
+- 🎮 **TsarMate Chess Engine** - A better chess engine implementation, in Go, using bitboards
 
 <div align="center" style="display: flex">
   <div style="display: flex; flex-direction: column; gap: 10px;">
