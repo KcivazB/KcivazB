@@ -34,7 +34,7 @@
 - ♟️ **Rookie Chess Engine** - A python chess engine simple implementation 
 - 🎮 **TsarMate Chess Engine** - A better chess engine implementation, in Go, using bitboards
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view-animate.svg)
 
 
 ---
